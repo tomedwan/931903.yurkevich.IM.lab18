@@ -1,0 +1,30 @@
+C:\MyFiles\Study\Simulation Models\Lab18\bin\Debug\Lab18.exe.config
+C:\MyFiles\Study\Simulation Models\Lab18\bin\Debug\Lab18.exe
+C:\MyFiles\Study\Simulation Models\Lab18\bin\Debug\Lab18.pdb
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.Form1.resources
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.Properties.Resources.resources
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.exe
+C:\MyFiles\Study\Simulation Models\Lab18\obj\Debug\Lab18.pdb
+C:\Users\Denis\Desktop\Afina18\bin\Debug\Lab18.exe.config
+C:\Users\Denis\Desktop\Afina18\bin\Debug\Lab18.exe
+C:\Users\Denis\Desktop\Afina18\bin\Debug\Lab18.pdb
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.Form1.resources
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.Properties.Resources.resources
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.exe
+C:\Users\Denis\Desktop\Afina18\obj\Debug\Lab18.pdb
+C:\Users\64510\OneDrive\Desktop\Lab18\bin\Debug\Lab18.exe.config
+C:\Users\64510\OneDrive\Desktop\Lab18\bin\Debug\Lab18.exe
+C:\Users\64510\OneDrive\Desktop\Lab18\bin\Debug\Lab18.pdb
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.csprojAssemblyReference.cache
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.Form1.resources
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.Properties.Resources.resources
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.csproj.GenerateResource.cache
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.csproj.CoreCompileInputs.cache
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.exe
+C:\Users\64510\OneDrive\Desktop\Lab18\obj\Debug\Lab18.pdb
